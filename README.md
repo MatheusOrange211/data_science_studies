@@ -12,7 +12,7 @@ usando outras referências (deixarei abaixo).
 
 ---
  ### Atenção ❗ <br>
- Caso esteja visualizando diretamente no GitHub os Arquivos, saiba que alguns estilizações podem não aparecer
+ Caso esteja visualizando diretamente no GitHub os Arquivos, saiba que alguns estilos podem não aparecer
                mas se é só baixar que está tudo certo.
 
 ----
