@@ -10,6 +10,11 @@ Aqui abordo alguns temas da parte estatística, plotagem de gráficos e análise
 Estes resumos são feitos com base nos meus estudos semanais. Com o tempo, abordarei temas mais aprofundados, conforme sigo o livro. Contudo, alguns temas extras são inseridos
 usando outras referências (deixarei abaixo). 
 
+---
+ ### Atenção ❗ <br>
+ Caso esteja visualizando diretamente no GitHub os Arquivos, saiba que alguns estilizações podem não aparecer
+               mas se é só baixar que está tudo certo.
+
 ----
 ## Referências 📚
 <p>
