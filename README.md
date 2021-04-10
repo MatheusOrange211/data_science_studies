@@ -1,7 +1,8 @@
 # Alguns Resumos de Data Science 📊📚🚀
-<p align="center>
-  <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif"><br>
+<p align="center">
+  <img src= "https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif">
 </p>
+                                                                       
 Olá!<br>
 Este repositório é um pequeno aglomerado (organizado na medida do possível) de temas relacionados ao estudo da ciência de dados para aqueles 
 que estão dando seus primeiros passos também. Seguindo como referência o livro *Data Science do Zero - Primeiras Regras com o Python* de [Joel Grus](https://twitter.com/joelgrus).
